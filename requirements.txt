@@ -1,0 +1,5 @@
+requests
+spacy
+bs4
+matplotlib
+textblob
