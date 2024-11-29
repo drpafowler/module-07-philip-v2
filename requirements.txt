@@ -3,3 +3,4 @@ spacy
 bs4
 matplotlib
 textblob
+wordcloud
